@@ -8,7 +8,7 @@ AI-based playground safety monitoring robot simulation using ROS 2 and Turtlesim
 
 **[mimamori_v2.py](mimamori_v2.py)** が最終提出版です。
 
-`mimamori_ai.py` は初期の試作版として、開発過程を残すために保存しています。
+
 
 ## 作品の概要
 
